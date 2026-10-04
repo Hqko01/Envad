@@ -45,3 +45,8 @@ Envad is a free inventory tracking application designed to eliminate complexity 
 ## 📦 Envad is here! 
 
 https://Liriandev.com/@Envad
+
+## License
+
+This project is licensed under the MIT License.
+See the [https://github.com/Hqko01/Envad/blob/main/LISENCE](LICENSE) file for details.
