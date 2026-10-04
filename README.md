@@ -49,4 +49,4 @@ https://Liriandev.com/@Envad
 ## License
 
 This project is licensed under the MIT License.
-See the [https://github.com/Hqko01/Envad/blob/main/LISENCE](LICENSE) file for details.
+See the [https://github.com/Hqko01/Envad/blob/main/LICENSE](LICENSE) file for details.
