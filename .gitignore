@@ -9,8 +9,9 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-/public
-/src
+/src/lib
+/src/app/api
+/src/app/auth
 /prisma
 
 # testing
