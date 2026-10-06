@@ -1,0 +1,30 @@
+{
+  "HomePage": {
+    "title": "Free Inventory Tracking App",
+    "description": "Simplify warehouse management with ease."
+  },
+  "Dashboard": {
+    "welcome": "Welcome",
+    "totalProducts": "Total Products"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Ücretsiz Stok Takip Uygulaması",
+      "description": "Depo yönetimini karmaşıklıktan uzaklaştırın."
+    },
+    "dashboard": {
+      "title": "Gösterge Paneli",
+      "description": "Depo yönetimini karmaşıklıktan uzaklaştırın."
+    }
+  },
+  "Hero": {
+    "badge": "Open Source & MIT Licensed",
+    "titleStart": "Open-Source",
+    "titleHighlight": "Inventory System",
+    "titleEnd": "for Teams",
+    "description": "Envad is a fast, flexible, and multilingual open-source inventory and stock management platform designed for modern workflows.",
+    "primaryCta": "Get Started",
+    "secondaryCta": "View on GitHub",
+    "imageAlt": "Envad open source inventory management system dashboard preview"
+  }
+}

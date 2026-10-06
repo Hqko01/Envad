@@ -1,0 +1,64 @@
+{
+  "HomePage": {
+    "title": "Ücretsiz Stok Takip Uygulaması",
+    "description": "Depo yönetimini karmaşıklıktan uzaklaştırın."
+  },
+  "Dashboard": {
+    "welcome": "Hoş Geldiniz",
+    "totalProducts": "Toplam Ürün"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Ücretsiz Stok Takip Uygulaması",
+      "description": "Depo yönetimini karmaşıklıktan uzaklaştırın."
+    },
+    "dashboard": {
+      "title": "Gösterge Paneli",
+      "description": "Depo yönetimini karmaşıklıktan uzaklaştırın."
+    }
+  },
+  "Hero": {
+    "badge": "Açık Kaynak & MIT Lisanslı",
+    "titleStart": "Açık Kaynak Kodlu",
+    "titleHighlight": "Geleceğin Envanter",
+    "titleEnd": "Yönetimi",
+    "description": "Envad, modern işletmeler için geliştirilmiş hızlı, esnek ve çoklu dil destekli açık kaynak stok takip ve depo otomasyon çözümüdür.",
+    "primaryCta": "Hemen Dene",
+    "secondaryCta": "GitHub'da İncele",
+    "imageAlt": "Envad açık kaynak stok takip ve envanter yönetim paneli ekran görüntüsü"
+  },
+  "Middle": {
+    "featuresBadge": "Öne Çıkan Özellikler",
+    "featuresTitle": "İhtiyacınız Olan Her Şey Tek Bir Yerde",
+    "featuresDesc": "Performanslı, güvenli ve modern teknolojilerle geliştirilmiş altyapımız sayesinde işlerinizi hızlandırın.",
+    "feature1Title": "Hızlı Entegrasyon",
+    "feature1Desc": "Dakikalar içinde kurulum yapın ve projelerinizi gecikme yaşamadan hemen yayına alın.",
+    "feature2Title": "Gelişmiş Analitik",
+    "feature2Desc": "Kullanıcı davranışlarını ve sistem performansını anlık grafiklerle detaylıca takip edin.",
+    "feature3Title": "Üst Düzey Güvenlik",
+    "feature3Desc": "Endüstri standardı şifreleme ve güvenlik önlemleri ile verileriniz her zaman güvende.",
+    "feature4Title": "%99.9 Uptime",
+    "feature4Desc": "Kesintisiz hizmet garantisi ile kullanıcılarınıza sorunsuz bir deneyim sunun.",
+    "ctaTitle": "Hemen Başlamaya Hazır Mısınız?",
+    "ctaDesc": "Projelerinizi bir üst seviyeye taşımak için bugün ücretsiz hesabınızı oluşturun.",
+    "ctaButton": "Ücretsiz Deneyin",
+    "stat1Number": "+10K",
+    "stat1Label": "Aktif Kullanıcı",
+    "stat2Number": "99.9%",
+    "stat2Label": "Hizmet Süresi",
+    "stat3Number": "24/7",
+    "stat3Label": "Canlı Destek",
+    "testimonialsBadge": "Kullanıcı Yorumları",
+    "testimonialsTitle": "Müşterilerimiz Ne Diyor?",
+    "testimonialsDesc": "Platformumuzu kullanan geliştirici ve ekiplerin deneyimlerine göz atın.",
+    "review1Text": "Proje geliştirme sürecimizi inanılmaz derecede hızlandırdı. Arayüzün sadeliği ve hızı gerçekten etkileyici.",
+    "review1Name": "Ahmet Yılmaz",
+    "review1Role": "Kıdemli Yazılım Geliştirici",
+    "review2Text": "Müşteri desteği ve sistem kararlılığı harika. Artık tüm projelerimizde standart olarak bu altyapıyı tercih ediyoruz.",
+    "review2Name": "Elif Demir",
+    "review2Role": "Ürün Yöneticisi",
+    "review3Text": "Next.js entegrasyonu ve performans odaklı mimarisi sayesinde dönüşüm oranlarımızda gözle görülür bir artış sağladık.",
+    "review3Name": "Can Öztürk",
+    "review3Role": "Full-Stack Geliştirici"
+  }
+}
